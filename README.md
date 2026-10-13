@@ -10,7 +10,7 @@ IT業界における30年以上の確かな地盤（C/C++での組込み開発15
 ## 🚀 開発プロジェクト ＆ 成果物一覧
 
 ### 1. 🎵 Web Audio API 音楽クリエイターツール（公開中）
-* **リポジトリ**: [/yabusan2-dot/my-music-tools](/yabusan2-dot/my-music-tools)
+* **リポジトリ**: [[/yabusan2-dot/my-music-tools](/yabusan2-dot/my-music-tools](https://yabusan2-dot.github.io/my-music-tools/))
 * **技術スタック**: JavaScript (Vanilla JS), Web Audio API, Node.js, OpenAI API
 * **概要**: 外部の音源ファイル（Wav/MP3等）に依存せず、CanvasとWeb Audio APIのコード制御のみで効果音やBGMを動的生成する実験的ツール群。サンプルフレーズの生成ロジックにOpenAI APIを組み込むなど、AI連携の可能性を模索した作品です。
 * **内包ツール**: シーケンサー、ミキサー、リズムマシーン、SEジェネレーター
