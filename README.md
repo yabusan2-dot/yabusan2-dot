@@ -10,12 +10,13 @@ IT業界における30年以上の経験（C/C++での組込み開発、技術�
 ## 🚀 開発プロジェクト ＆ 成果物一覧
 
 ### 1. 🎵 Web Audio API 音楽クリエイターツール（公開中）
-* **公開ページ**: [https://yabusan2-dot.github.io/my-music-tools/)
+* **公開ページ**: (https://yabusan2-dot.github.io/my-music-tools/)
 * **技術スタック**: JavaScript (Vanilla JS), Web Audio API, Node.js, OpenAI API
 * **概要**: 外部の音源ファイル（Wav/MP3等）に依存せず、CanvasとWeb Audio APIのコード制御のみで効果音やBGMを動的生成する実験的ツール群。サンプルフレーズの生成ロジックにOpenAI APIを組み込むなど、AI連携の可能性を模索した作品です。
 * **内包ツール**: シーケンサー、ミキサー、リズムマシーン、SEジェネレーター
 
 ### 2. 💥 シューティングゲーム（ランキングシステム） （公開中）
+* **公開ページ**:(https://yabusan2-dot.github.io/shooting-game-firebase/)
 * **技術スタック**: HTML5 Canvas,JavaScript (Vanilla JS), CSS3
 * **特長**: HTML5の Canvas機能 を用いた軽量なグラフィックス描画制御と、バックエンドに Firebase Realtime Database を組み合わせた、リアルタイム・スコアランキング機能付きのシューティングゲーム。
 
