@@ -11,17 +11,20 @@ IT業界における30年以上の経験（C/C++での組込み開発、技術�
 
 ### 1. 🎵 Web Audio API 音楽クリエイターツール（公開中）
 * **公開ページ**: (https://yabusan2-dot.github.io/my-music-tools/)
+* **リポジトリ**: (https://github.com/yabusan2-dot/my-music-tools)
 * **技術スタック**: JavaScript (Vanilla JS), Web Audio API, Node.js, OpenAI API
 * **概要**: 外部の音源ファイル（Wav/MP3等）に依存せず、CanvasとWeb Audio APIのコード制御のみで効果音やBGMを動的生成する実験的ツール群。サンプルフレーズの生成ロジックにOpenAI APIを組み込むなど、AI連携の可能性を模索した作品です。
 * **内包ツール**: シーケンサー、ミキサー、リズムマシーン、SEジェネレーター
 
 ### 2. 💥 シューティングゲーム（ランキングシステム） （公開中）
 * **公開ページ**:(https://yabusan2-dot.github.io/shooting-game-firebase/)
+* **リポジトリ**: (https://github.com/yabusan2-dot/shooting-game-firebase)
 * **技術スタック**: HTML5 Canvas,JavaScript (Vanilla JS), CSS3
 * **特長**: HTML5の Canvas機能 を用いた軽量なグラフィックス描画制御と、バックエンドに Firebase Realtime Database を組み合わせた、リアルタイム・スコアランキング機能付きのシューティングゲーム。
 
 ### 3. 🥏 WebSocket エアーホッケー（リアルタイム対戦サーバー） （公開中）
 * **対戦イメージ動画**:(https://github.com/yabusan2-dot/air-hockey-websocket/issues/1)
+* **リポジトリ**: (https://github.com/yabusan2-dot/air-hockey-websocket)
 * **技術スタック**: Node.js (標準モジュールのみ), WebSocket, HTML5 Canvas
 * **特長**: 外部ライブラリ（socket.io等）に頼らず、RFC 6455準拠のバイナリフレーム解析・マスク解除を自前で実装。通信遅延（レイテンシ）を徹底検証し、すべての物理演算（衝突判定・速度計算）をサーバー側で一元管理する「サーバーサイド・オーソリティ方式」を採用したガチガチの同期型対戦エンジン。
 
