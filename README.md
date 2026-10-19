@@ -28,7 +28,7 @@ IT業界における30年以上の経験（C/C++での組込み開発、技術�
 ---
 ## 🚀 開発プロジェクト ＆ 成果物一覧
 半年間で作成したサンプルコードや趣味の音楽、ゲームに関連したツール等の作品です。
-* **リポジトリ**: (https://github.com/sample-project-list/blob/main/README.md)
+* **リポジトリ**: (https://github.com/yabusan2-dot/sample-project-list/blob/main/README.md)
 
 ---
 ## 📫 リンク
